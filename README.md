@@ -1,3 +1,5 @@
+Adding modern systems such as Switch, Teknoparrot, and some arcade hardware.
+
 =============OMEGADRIVE============
 =			  	  				  =
 =           Version 1.4           =
