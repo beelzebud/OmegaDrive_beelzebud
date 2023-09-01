@@ -42,7 +42,7 @@
 			<color>a0a0a0</color>
 			<lineSpacing>1.18</lineSpacing>
 			<origin>0 0</origin>
-			<pos>0.12 0.535</pos>
+			<pos>0.12 0.565</pos>
 			<size>0.32 0.20</size>	  
 		</text>
 		
@@ -129,15 +129,16 @@
 			<pos>0.48 0.42</pos>
 			<maxSize>0.13 0.23</maxSize>
 			<origin>0.5 0.5</origin>
-		</image>	
+		</image>
 	</view>
-	<view  name="detailed">
+	<view name="detailed">   		
 		<image name="md_thumbnail">
 			<origin>0.5 0.5</origin>
 			<pos>0.7425 0.5</pos>
 			<maxSize>0.29 0.38</maxSize>
 		</image>	
 	</view>
+
 	<view name="video">   
 		<video name="md_video">
 			<origin>0.5 0.5</origin>
