@@ -129,7 +129,7 @@
   <view name="detailed">
     <image name="md_thumbnail">
       <origin>0.5 0.5</origin>
-      <pos>0.66 0.660</pos>
+      <pos>0.74 0.5</pos>
       <maxSize>0.28 0.36</maxSize>
     </image>
   </view>
