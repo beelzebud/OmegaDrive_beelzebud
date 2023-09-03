@@ -17,9 +17,9 @@
 		</text>
 		<text name="system_name_2" extra="true">
 			<text>Lynx</text>
-			<fontPath>./../art/medium.otf</fontPath>
+			<fontPath>./../art/atari.ttf</fontPath>
 			<alignment>left</alignment>
-			<color>cfcfcf</color>
+			<color>228822</color>
 			<fontSize>0.08</fontSize>
 			<origin>0 0</origin>
 			<pos>0.12 0.325</pos>
@@ -75,7 +75,7 @@
 			<fontSize>0.030</fontSize>
 			<forceUppercase>1</forceUppercase>
 			<size>0.3 0.3</size>
-			<color>cfcfcfbf</color>
+			<color>228822bf</color>
 			<zIndex>120</zIndex>
 		</text>
 		<text name="md_players">
@@ -84,7 +84,7 @@
 			<fontPath>./../art/pixel3.ttf</fontPath>
 			<fontSize>0.030</fontSize>
 			<size>0.3 0.3</size>
-			<color>cfcfcfbf</color>
+			<color>228822bf</color>
 			<zIndex>120</zIndex>
 		</text>
 		<text name="md_lbl_releasedate">
@@ -94,7 +94,7 @@
 			<fontSize>0.030</fontSize>
 			<forceUppercase>1</forceUppercase>
 			<size>0.3 0.3</size>
-			<color>cfcfcfbf</color>
+			<color>228822bf</color>
 			<zIndex>120</zIndex>         
 		</text>
 		<datetime name="md_releasedate">
@@ -103,7 +103,7 @@
 			<fontPath>./../art/pixel3.ttf</fontPath>
 			<fontSize>0.030</fontSize>
 			<size>0.3 0.3</size>
-			<color>cfcfcfbf</color>
+			<color>228822bf</color>
 			<zIndex>120</zIndex>         
 		</datetime>
 		<text name="md_lbl_developer">
@@ -113,7 +113,7 @@
 			<fontSize>0.030</fontSize>
 			<forceUppercase>1</forceUppercase>
 			<size>0.3 0.3</size>
-			<color>cfcfcfbf</color>
+			<color>228822bf</color>
 			<zIndex>120</zIndex>         
 		</text>
 		<text name="md_developer">
@@ -122,7 +122,7 @@
 			<fontPath>./../art/pixel3.ttf</fontPath>
 			<fontSize>0.028</fontSize>
 			<size>0.1 0.6</size>
-			<color>cfcfcfbf</color>
+			<color>228822bf</color>
 			<zIndex>120</zIndex>         
 		</text>
 		<image name="md_image">

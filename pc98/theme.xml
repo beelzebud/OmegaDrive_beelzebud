@@ -1,0 +1,98 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<include>./../theme.xml</include>
+
+	<view name="system">
+
+		<text name="system_name_1" extra="true">
+			<text>NEC</text>
+			<fontPath>./../art/medium.otf</fontPath>
+			<alignment>left</alignment>
+			<color>a0a0a0</color>
+			<fontSize>0.025</fontSize>
+			<origin>0 0</origin>
+			<pos>0.12 0.308</pos>
+			<size>0 0</size>
+		</text>
+		<text name="system_name_2" extra="true">
+			<text>PC-98</text>
+			<fontPath>./../art/medium.otf</fontPath>
+			<alignment>left</alignment>
+			<color>228822</color>
+			<fontSize>0.08</fontSize>
+			<origin>0 0</origin>
+			<pos>0.12 0.325</pos>
+			<size>0 0</size>
+		</text>
+		<image name="dividers" extra="true">
+			<tile>false</tile>
+			<path>./../art/lines.png</path>
+			<color>eeeeeebb</color>
+			<size>0 0</size>
+			<pos>0.12 0.46</pos>
+		</image>
+
+		<text name="description" extra="true">
+			<text>
+The PC-9800 series, commonly shortened to PC-98 or 98, is a lineup of Japanese 16-bit and 32-bit personal computers manufactured by NEC from 1982 to 2000. The platform established NEC's dominance in the Japanese personal computer market, and, by 1999, more than 18 million units were sold.</text>
+			<fontPath>./../art/regular.ttf</fontPath>
+			<alignment>left</alignment>
+			<forceUppercase>0</forceUppercase>
+			<fontSize>0.024</fontSize>
+			<color>a0a0a0</color>
+			<lineSpacing>1.18</lineSpacing>
+			<origin>0 0</origin>
+			<pos>0.12 0.5075</pos>
+			<size>0.32 0.20</size>	  
+		</text>
+
+	</view>
+	<view name="detailed, video">
+		<image name="background" extra="true">
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<path>./../art/systembg/pc98.png</path>
+		</image>
+		<textlist name="gamelist">
+			<selectorOffsetY>0</selectorOffsetY>
+			<selectorHeight>0.04</selectorHeight>
+			<selectorColor>00ff11a2</selectorColor>
+			<fontPath>./../art/dos.ttf</fontPath>
+			<fontSize>0.028</fontSize>
+			<lineSpacing>1.2</lineSpacing>
+			<primaryColor>00ff11af</primaryColor>
+			<secondaryColor>303030ff</secondaryColor>
+			<selectedColor>000000</selectedColor>
+			<size>0.34 0.18</size>
+			<pos>0.5728 0.4725</pos>
+			<alignment>center</alignment>
+			<origin>0.5 0.5</origin>
+		</textlist>	
+		<image name="monitor_overlay" extra="true">
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<path>./../art/list/apple-overlay.png</path>
+			<zIndex>198</zIndex>
+		</image>		
+	</view>
+	<view name="detailed">   
+		<image name="md_thumbnail">
+			<origin>0.5 0.5</origin>
+			<pos>0.57 0.24</pos>
+			<maxSize>0.23 0.36</maxSize>
+		</image>
+	</view>
+
+	<view name="video">   
+		<video name="md_video">
+			<origin>0.5 0.5</origin>
+			<pos>0.57 0.24</pos>
+			<maxSize>0.23 0.36</maxSize>
+			<delay>0.7</delay>
+			<showSnapshotNoVideo>true</showSnapshotNoVideo>
+			<showSnapshotDelay>true</showSnapshotDelay>
+		</video>		
+	</view>
+
+</theme>

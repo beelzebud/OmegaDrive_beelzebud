@@ -8,7 +8,7 @@
 			<text>Nintendo</text>
 			<fontPath>./../art/nes.ttf</fontPath>
 			<alignment>left</alignment>
-			<color>8fce00</color>
+			<color>a0a0a0</color>
 			<fontSize>0.025</fontSize>
 			<origin>0 0</origin>
 			<pos>0.12 0.308</pos>
@@ -18,7 +18,7 @@
 			<text>Switch</text>
 			<fontPath>./../art/medium.otf</fontPath>
 			<alignment>left</alignment>
-			<color>8fce00</color>
+			<color>a0a0a0</color>
 			<fontSize>0.08</fontSize>
 			<origin>0 0</origin>
 			<pos>0.12 0.325</pos>
@@ -27,7 +27,7 @@
 		<image name="dividers" extra="true">
 			<tile>false</tile>
 			<path>./../art/lines.png</path>
-			<color>8fce00</color>
+			<color>a0a0a0</color>
 			<size>0 0</size>
 			<pos>0.12 0.46</pos>
 		</image>
@@ -38,7 +38,7 @@
 			<alignment>left</alignment>
 			<forceUppercase>0</forceUppercase>
 			<fontSize>0.024</fontSize>
-			<color>8fce00</color>
+			<color>a0a0a0</color>
 			<lineSpacing>1.18</lineSpacing>
 			<origin>0 0</origin>
 			<pos>0.12 0.565</pos>
@@ -56,13 +56,13 @@
 			<selectorImagePath>./../art/list/selector.png</selectorImagePath>
 			<selectorOffsetY>-0.013</selectorOffsetY>
 			<selectorHeight>0.058</selectorHeight>
-			<selectorColor>8fce00</selectorColor>
+			<selectorColor>a0a0a0</selectorColor>
 			<fontPath>./../art/bold.ttf</fontPath>
 			<fontSize>0.022</fontSize>
 			<lineSpacing>2.75</lineSpacing>
 			<primaryColor>ffffff44</primaryColor>
 			<secondaryColor>ffff00</secondaryColor>
-			<selectedColor>8fce00</selectedColor>
+			<selectedColor>a0a0a0</selectedColor>
 			<size>0.265 0.54</size>
 			<pos>0.3445 0.5175</pos>
 			<horizontalMargin>0.01</horizontalMargin>

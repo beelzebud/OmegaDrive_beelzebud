@@ -7,7 +7,7 @@
 	
 		<text name="system_name_1" extra="true">
 			<text>Atari</text>
-			<fontPath>./../art/medium.otf</fontPath>
+			<fontPath>./../art/atari.ttf</fontPath>
 			<alignment>left</alignment>
 			<color>a0a0a0</color>
 			<fontSize>0.025</fontSize>
@@ -17,9 +17,9 @@
 		</text>
 		<text name="system_name_2" extra="true">
 			<text>7800</text>
-			<fontPath>./../art/medium.otf</fontPath>
+			<fontPath>./../art/atari.ttf</fontPath>
 			<alignment>left</alignment>
-			<color>cfcfcf</color>
+			<color>228822</color>
 			<fontSize>0.08</fontSize>
 			<origin>0 0</origin>
 			<pos>0.12 0.325</pos>
