@@ -16,9 +16,9 @@
 		</text>
 		<text name="system_name_2" extra="true">
 			<text>Switch</text>
-			<fontPath>./../art/medium.otf</fontPath>
+			<fontPath>./../art/nes.ttf</fontPath>
 			<alignment>left</alignment>
-			<color>a0a0a0</color>
+			<color>228822</color>
 			<fontSize>0.08</fontSize>
 			<origin>0 0</origin>
 			<pos>0.12 0.325</pos>

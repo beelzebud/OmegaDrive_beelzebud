@@ -7,7 +7,7 @@
 
 		<text name="system_name_1" extra="true">
 			<text>Sony</text>
-			<fontPath>./../art/medium.otf</fontPath>
+			<fontPath>./../art/psp.otf</fontPath>
 			<alignment>left</alignment>
 			<color>a0a0a0</color>
 			<fontSize>0.025</fontSize>
@@ -17,7 +17,7 @@
 		</text>
 		<text name="system_name_2" extra="true">
 			<text>PSP</text>
-			<fontPath>./../art/medium.otf</fontPath>
+			<fontPath>./../art/psp.otf</fontPath>
 			<alignment>left</alignment>
 			<color>228822</color>
 			<fontSize>0.08</fontSize>
