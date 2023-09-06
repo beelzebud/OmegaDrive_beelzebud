@@ -41,7 +41,7 @@
 		<image name="background" extra="true">
 			<pos>0 0</pos>
 			<size>1 1</size>
-			<path>./../art/systembg/arcade (happ).png</path>
+			<path>./../art/systembg/teknoparrot.png</path>
 		</image>	
 		<image name="joysticks" extra="true">
 			<pos>0 0</pos>
