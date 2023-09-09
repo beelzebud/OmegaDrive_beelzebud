@@ -51,7 +51,7 @@
 		<image name="background" extra="true">
 			<pos>0 0</pos>
 			<size>1 1</size>
-			<path>./../art/systembg/generic.png</path>
+			<path>./../art/systembg/atarist.png</path>
 		</image>
 		<textlist name="gamelist">
 			<selectorImagePath>./../art/list/selector.png</selectorImagePath>
