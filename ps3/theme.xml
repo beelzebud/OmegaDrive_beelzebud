@@ -59,13 +59,13 @@
       <secondaryColor>ffffff</secondaryColor>
       <selectedColor>ffffff</selectedColor>
       <size>0.3 0.54</size>
-      <pos>0.26 0.535</pos>
+      <pos>0.22 0.51</pos>
       <horizontalMargin>0.01</horizontalMargin>
       <origin>0.5 0.5</origin>
     </textlist>
     <text name="md_lbl_players">
       <origin>0.5 0.5</origin>
-      <pos>0.616 0.72</pos>
+      <pos>0.52 0.61</pos>
       <fontPath>./../art/psp.otf</fontPath>
       <fontSize>0.028</fontSize>
       <forceUppercase>1</forceUppercase>
@@ -75,7 +75,7 @@
     </text>
     <text name="md_players">
       <origin>0.5 0.5</origin>
-      <pos>0.69 0.72</pos>
+      <pos>0.60 0.61</pos>
       <fontPath>./../art/psp.otf</fontPath>
       <fontSize>0.028</fontSize>
       <size>0.3 0.3</size>
@@ -84,7 +84,7 @@
     </text>
     <text name="md_lbl_releasedate">
       <origin>0.5 0.5</origin>
-      <pos>0.72 0.72</pos>
+      <pos>0.52 0.54</pos>
       <fontPath>./../art/psp.otf</fontPath>
       <fontSize>0.028</fontSize>
       <forceUppercase>1</forceUppercase>
@@ -94,7 +94,7 @@
     </text>
     <datetime name="md_releasedate">
       <origin>0.5 0.5</origin>
-      <pos>0.81 0.72</pos>
+      <pos>0.60 0.54</pos>
       <fontPath>./../art/psp.otf</fontPath>
       <fontSize>0.028</fontSize>
       <size>0.3 0.3</size>
@@ -103,7 +103,7 @@
     </datetime>
     <text name="md_lbl_developer">
       <origin>0.5 0.5</origin>
-      <pos>0.616 0.76</pos>
+      <pos>0.52 0.66</pos>
       <fontPath>./../art/psp.otf</fontPath>
       <fontSize>0.028</fontSize>
       <forceUppercase>1</forceUppercase>
@@ -113,10 +113,10 @@
     </text>
     <text name="md_developer">
       <origin>0.5 0.5</origin>
-      <pos>0.72 0.76</pos>
+      <pos>0.6 0.66</pos>
       <fontPath>./../art/psp.otf</fontPath>
       <fontSize>0.028</fontSize>
-      <forceUppercase>1</forceUppercase>
+      <forceUppercase>0</forceUppercase>
       <size>0.3 0.3</size>
       <color>ffffffbf</color>
       <zIndex>120</zIndex>
@@ -132,7 +132,7 @@
   <view name="video">
     <video name="md_video">
       <origin>0.5 0.5</origin>
-      <pos>0.67 0.476</pos>
+      <pos>0.75 0.476</pos>
       <maxSize>0.44 0.52</maxSize>
       <delay>1.5</delay>
       <showSnapshotNoVideo>true</showSnapshotNoVideo>
