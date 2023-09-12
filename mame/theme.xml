@@ -6,23 +6,23 @@
 	<view name="system">
 
 		<text name="system_name_1" extra="true">
-			<text>Arcade</text>
-			<fontPath>./../art/medium.otf</fontPath>
-			<alignment>left</alignment>
-			<color>a0a0a0</color>
-			<fontSize>0.025</fontSize>
-			<origin>0 0</origin>
-			<pos>0.12 0.308</pos>
-			<size>0 0</size>
-		</text>
-		<text name="system_name_2" extra="true">
-			<text>Classics</text>
+			<text>MAME</text>
 			<fontPath>./../art/medium.otf</fontPath>
 			<alignment>left</alignment>
 			<color>228822</color>
 			<fontSize>0.08</fontSize>
 			<origin>0 0</origin>
-			<pos>0.12 0.325</pos>
+			<pos>0.12 0.308</pos>
+			<size>0 0</size>
+		</text>
+		<text name="system_name_2" extra="true">
+			<text>Multi Arcade Machine Emulator</text>
+			<fontPath>./../art/medium.otf</fontPath>
+			<alignment>left</alignment>
+			<color>228822</color>
+			<fontSize>0.025</fontSize>
+			<origin>0 0</origin>
+			<pos>0.12 0.4</pos>
 			<size>0 0</size>
 		</text>
 		<image name="dividers" extra="true">
@@ -51,7 +51,7 @@
 		<image name="background" extra="true">
 			<pos>0 0</pos>
 			<size>1 1</size>
-			<path>./../art/systembg/arcade (happ).png</path>
+			<path>./../art/systembg/arcade_generic.png</path>
 		</image>	
 		<image name="joysticks" extra="true">
 			<pos>0 0</pos>
