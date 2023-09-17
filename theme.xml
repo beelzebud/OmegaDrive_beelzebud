@@ -11,7 +11,7 @@
 		</image>
 		<image name="help-image" extra="true">
 			<pos>0.028 .982</pos>
-			<size>0 0</size>
+			 
 			<path>./art/helpers/home.png</path>
 			<color>ffffff</color>	
 			<origin>0 1</origin>
