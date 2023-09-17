@@ -34,7 +34,7 @@
 		</image>
 
 		<text name="description" extra="true">
-			<text></text>
+			<text>Material unofficially leaked from various studios.</text>
 			<fontPath>./../art/regular.ttf</fontPath>
 			<alignment>left</alignment>
 			<forceUppercase>0</forceUppercase>

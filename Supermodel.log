@@ -1,0 +1,8 @@
+[Info]  Supermodel Version 0.3a-git-84aa972
+[Info]  Started as:
+[Info]    argv[0] = D:\Emulators\Supermodel\Supermodel.exe
+[Info]    argv[1] = swtrilgy
+[Error] Unable to open 'Config/Supermodel.ini'. Configuration will not be loaded.
+[Error] Failed to parse Config/Games.xml (XML_ERROR_FILE_NOT_FOUND).
+[Error] Game and ROM set definitions could not be loaded! ROMs will not be detected.
+[Error] Could not open 'swtrilgy'.
