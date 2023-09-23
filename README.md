@@ -11,34 +11,34 @@
 1.5 Changelog
 -----------------------------------
 Added the following systems:
-Action Max
-Amiga 1200
-Amiga 600
-Amiga cd32
-Apple 2
-Apple 2 GS
-Future Pinball
-Sega Hikaru
-Game Leaks
-Gamecube
-Hypseus-Singe
-Intellivision
-Sega Model 3
-Mugen
-N64DD
-Namco 357
-PC88
-PC98
-PSVita
-Sega Titan Video
-Teknoparrot
-TI99-4/A
-Nintendo Satellaview
-Sega Naomi
-Sega Triforce
-Switch
-Xbox
-Xbox360
+Action Max,
+Amiga 1200,
+Amiga 600,
+Amiga cd32,
+Apple 2,
+Apple 2 GS,
+Future Pinball,
+Sega Hikaru,
+Game Leaks,
+Gamecube,
+Hypseus-Singe,
+Intellivision,
+Sega Model 3,
+Mugen,
+N64DD,
+Namco 357,
+PC88,
+PC98,
+PSVita,
+Sega Titan Video,
+Teknoparrot,
+TI99-4/A,
+Nintendo Satellaview,
+Sega Naomi,
+Sega Triforce,
+Switch,
+Xbox,
+Xbox360,
 
 
 
