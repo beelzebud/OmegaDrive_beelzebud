@@ -7,9 +7,9 @@
 	
 		<text name="system_name_1" extra="true">
 			<text>Mugen</text>
-			<fontPath>./../art/regular.otf</fontPath>
+			<fontPath>./../art/medium.otf</fontPath>
 			<alignment>left</alignment>
-			<color>a0a0a0</color>
+			<color>228822</color>
 			<fontSize>0.08</fontSize>
 			<origin>0 0</origin>
 			<pos>0.12 0.308</pos>
